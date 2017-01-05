@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>data/qrypto.png</file>
+        <file>data/cancel.png</file>
+        <file>data/close.png</file>
+        <file>data/edit-copy.png</file>
+        <file>data/ok.png</file>
+        <file>data/settings.png</file>
+        <file>data/edit-clear.png</file>
+        <file>data/swap.png</file>
+        <file>data/start.png</file>
+        <file>data/roll.png</file>
+        <file>data/lower.png</file>
+        <file>data/bruteforce.png</file>
+        <file>data/clear-history.png</file>
+        <file>data/history.png</file>
+        <file>data/window-top.png</file>
+        <file>data/stop.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,24 @@
+0.4.1 :
+    * Fix compiling error with gcc 4.4
+    * Support thread in the brute forcer (experimentale)
+    * Add icons
+
+0.4.0 :
+	* Update to version 5.6.0 of Crypto++ library
+	* Add theres encryption/decryprion functions:
+	  Salsa20, SEAL, SEED, Sosemanuk, Panama, XSalsa20
+
+0.3.1 :
+	* Fix bugs in the brute forcer
+
+0.3.0 :
+	* Add ROT13
+	* Add Leet Speak En/Decode
+	* Add Reverse String
+	
+0.2.0 :
+	* Add Brute Forcer
+	* Some bug fix
+
+0.1.0 :
+	* Initial release

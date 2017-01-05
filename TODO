@@ -1,0 +1,11 @@
+Update Crypto++ to 5.6.0 = Done
+
+Add :
+  * Salsa20 : http://www.cryptopp.com/docs/ref/struct_salsa20.html = Done
+  * SEAL : http://www.cryptopp.com/docs/ref/struct_s_e_a_l.html = Done
+  * SEED : http://www.cryptopp.com/docs/ref/class_s_e_e_d.html = Done
+  * Sosemanuk : http://www.cryptopp.com/docs/ref/struct_sosemanuk.html = Done
+  * PanamaChiper : http://www.cryptopp.com/docs/ref/struct_panama_cipher.html = Done
+  * XSalsa20 : http://www.cryptopp.com/docs/ref/struct_x_salsa20.html = Done
+  
+  Support threads in the bruteforcer

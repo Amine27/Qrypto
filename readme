@@ -1,0 +1,94 @@
+Requirements
+-------------------
+ 
+* Qt4
+     On Debian or Ubuntu, install package 'libqt4-gui' and it's dependencies.
+
+* The Crypto++ 5.6.0 library.
+     Install cryptopp package ('libcrypto++8' or 'libcrypto++').
+
+
+Running Qrypto
+-------------------
+
+If you have all the needed requirements installed, just extract Qrypto somewhere and, in a 
+terminal, cd to it's folder, and type './bin/qrypto' in order to execute it.
+
+
+Feature
+--------------------
+
+Hashs :
+    - Adler32
+    - CRC32
+    - MD2, MD4, MD5
+    - RIPEMD128, RIPEMD160, RIPEMD320
+    - SHA1, SHA224, SHA256, SHA384, SHA512
+    - Tiger
+    - Whirlpool
+
+Encryption/Decryprion functions :
+    - AES
+    - Blowfish
+    - Camellia
+    - CAST128, CAST256
+    - DES, DES EDE2, DES EDE3, DES XEX3
+    - GOST
+    - IDEA
+    - MARS
+	- Panama
+    - RC2, RC5, RC6
+    - SAFER K
+    - SAFER SK
+	- Salsa20, XSalsa20
+	- SEAL
+	- SEED
+    - Serpent
+    - SHACAL2
+    - SHARK
+    - SKIPJACK
+	- Sosemanuk
+    - Square
+    - TEA, XTEA
+    - ThreeWay
+    - Twofish
+
+Conversions :
+    - Base32Encode/Decode
+    - Base64Encode/Decode
+    - HexEncode/Decode
+    - URLEncode/Decode
+    - UUEncode/UUDecode
+	- ROT13 encode/decode
+	- Leet Speak encode/decode
+	- Reverse String
+
+Tools :
+    - MemoTool
+    - Key Generator
+	- Brute Forcer
+
+
+More information
+---------------------
+
+For more detailed (and up to date) instructions see <http://www.qt-apps.org/content/show.php/Qrypto?content=94369>.
+
+
+Troubleshooting
+--------------------
+
+If you have any problem with Qrypto don't hesitate to contact me on <amineroukh@gmail.com>.
+
+
+Authors
+--------------------
+
+Amine ROUKH <amineroukh@gmail.com>
+
+    Development and Graphical User Interface design.
+
+Thanks to: Wei Dai
+
+    Development of Crypto++, that is used by Qrypto.
+    
